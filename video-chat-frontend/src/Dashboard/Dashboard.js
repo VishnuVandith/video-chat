@@ -37,7 +37,7 @@ const Dashboard = ({ username, callState }) => {
           <img className='dashboard_logo_image' src={logo} alt='logo' />
         </div>
       </div>
-      <footer> <small>&#9400; Copyright 2021, shubham khatal</small> </footer>
+      <footer></footer>
     </div>
   );
 };
